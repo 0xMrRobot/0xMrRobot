@@ -7,4 +7,3 @@
 - 👀 I’m interested in Artificial Intelligence, Quantum Computing and Blockchain Ecosystem
 - 🌱 I’m currently learning Descentralized Systems and Blockchain Ecosystem
 - 💞️ I’m looking to collaborate on open source projects and startups.
-- 📫 You can find me in twitter like @0xMrRobot
